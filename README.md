@@ -1,2 +1,2 @@
 # shellScripts
-some personal .bashrc/.vimrc etc.
+some personal .bashrc/.viminfo etc.
