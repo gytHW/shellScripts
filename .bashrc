@@ -11,6 +11,7 @@ alias golog='cd /opt/log/'
 alias ntlog='cd /opt/log/neitui_hr'
 alias gs='git status'
 alias f='echo flush_all | nc 127.0.0.1 11211'
+#used to watch log file
 tailinfo(){
 prefix="info-";
 date=`date +%Y-%m-%d`;
